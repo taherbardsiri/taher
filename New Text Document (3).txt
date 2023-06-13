@@ -1,0 +1,5 @@
+
+    for(num in 100..999){
+        if(isPrime(num))
+        println(num)
+    }

@@ -1,0 +1,10 @@
+taherbardsiri 
+00211107302010
+
+
+
+fun main() {
+    for(num in 100..999 ){
+            println(num)
+    }
+}
